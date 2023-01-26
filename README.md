@@ -7,7 +7,7 @@
 🇺🇸 Animated Login Form was my First contact with Animation in CSS and my First contact with the Form itself.
 
 ---
-<h3 align="center">Build With:</h3>
+<h3 align="center">Built With:</h3>
 
 <div align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
